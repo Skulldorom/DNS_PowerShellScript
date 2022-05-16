@@ -1,4 +1,4 @@
-# Change DNS scripts
+# Change DNS script
 
 ## About
 
