@@ -4,6 +4,7 @@
 Used to change between a custom DNS and your Default DNS.
 
 The custom DNS uses the IPv4 settings for cloudflare
+By default it changes the ethernet settings
 
 ## How to run
 
